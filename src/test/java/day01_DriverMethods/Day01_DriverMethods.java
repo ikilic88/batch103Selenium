@@ -11,5 +11,8 @@ public class Day01_DriverMethods {
         //System.out.println(driver.getPageSource());
         System.out.println(driver.getWindowHandle());// Bize o window'a ait hash değerini verir. Biz bu hash değerlerini
         // bir string'e atayıp pencereler arası geçiş yapabiliriz
+
+//Execute01 src/resources/selenium-chrome-driver-4.7.1-sources.jar
+
     }
 }
